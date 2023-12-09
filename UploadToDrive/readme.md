@@ -15,7 +15,7 @@ This Python script utilizes the PyDrive library to upload photos from a local fo
    - Visit the [Google Cloud Console](https://console.cloud.google.com/).
    - Create a new project or select an existing one.
    - Enable the Google Drive API for your project.
-   - Create credentials (OAuth client ID) for a Desktop application and download the JSON file containing the credentials.
+   - Create credentials (OAuth client ID) for a Desktop application and download the JSON file containing the credentials Rename it to `client_secrets.json`.
 
 2. **Configure the Script:**
    - Replace `'Folder Path'` in the script with the local path of the folder containing the photos you want to upload.
