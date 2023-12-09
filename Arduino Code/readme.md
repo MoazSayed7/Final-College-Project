@@ -1,6 +1,12 @@
-# OV7670  
+# Datasheets
+Datasheet for I2C_LCD_16x2:  
+https://www.handsontec.com/dataspecs/module/I2C_1602_LCD.pdf
+
 Datasheet for OV7670:  
 https://www.voti.nl/docs/OV7670.pdf  
+
+Datasheet for IR Infrared Obstacle Avoidance:  
+https://www.rhydolabz.com/documents/26/IR_line_obstacle_detection.pdf
 
 -------------------------------------------------------------------------------  
   
